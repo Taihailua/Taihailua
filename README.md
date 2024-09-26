@@ -8,7 +8,7 @@
       - ⚡ Fun fact: I'm right behind you
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Taihailua&theme=dark" alt="Tai Tan's GitHub stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Taihailua&theme=dark&show_icons=true" alt="Tai Tan's GitHub stats"/>
     </td>
   </tr>
 </table>
