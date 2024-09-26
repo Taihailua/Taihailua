@@ -1,20 +1,17 @@
 ## Hi there 👋
--🌱 I’m currently studying CS 
-at Saigon University, Vietnam
-
--📫 How to reach me: 
-📨 phattai2082004@gmail.com
-
--😄 Pronouns: hehe
-
--⚡ Fun fact: I'm right behind you
-
-<div align="right">
-  
-![Tai Tan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taihailua)
-
-</div>
-
+<table>
+  <tr>
+    <td>
+      - 🌱 I’m currently studying CS at Saigon University, Vietnam<br>
+      - 📫 How to reach me: 📨 phattai2082004@gmail.com<br>
+      - 😄 Pronouns: hehe<br>
+      - ⚡ Fun fact: I'm right behind you
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Taihailua" alt="Tai Tan's GitHub stats"/>
+    </td>
+  </tr>
+</table>
 <!--
 **Taihailua/Taihailua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
