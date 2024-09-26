@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+-🌱 I’m currently learning CS at Saigon University, Vietnam
+-📫 How to reach me: 📨 phattai2082004@gmail.com
+-😄 Pronouns: hehe
+-⚡ Fun fact: I'm right behind you
 <!--
 **Taihailua/Taihailua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
