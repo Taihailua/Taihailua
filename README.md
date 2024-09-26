@@ -1,5 +1,5 @@
 ## Hi there 👋
--🌱 I’m currently learning CS at Saigon University, Vietnam
+-🌱 I’m currently studying CS at Saigon University, Vietnam
 
 -📫 How to reach me: 📨 phattai2082004@gmail.com
 
