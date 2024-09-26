@@ -1,7 +1,10 @@
 ## Hi there 👋
 -🌱 I’m currently studying CS at Saigon University, Vietnam
+
 -📫 How to reach me: 📨 phattai2082004@gmail.com
+
 -😄 Pronouns: hehe
+
 -⚡ Fun fact: I'm right behind you
 
 ![Tai Tan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taihailua)
